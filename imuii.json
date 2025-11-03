@@ -1,0 +1,11 @@
+{
+  "name": "bismillah",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "bismillah",
+  "email": "poalsca@gmail.com",
+  "secretKey": "imuii_afef2a0b9406e7e4bc9bf6383f93dddbf736031a921e32e549a05ed8d9cfc320",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/bismillah-7621a9bb.git"
+}
